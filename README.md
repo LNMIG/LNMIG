@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, my name is Luis Migliore style="color:#FCA205" </h1>
+<h1 align="center">Hi there, my name is Luis Migliore color="#FCA205" </h1>
 <h3 align="center">A passionate junior FullStack Developer from Argentina</h3>
 
 ---
