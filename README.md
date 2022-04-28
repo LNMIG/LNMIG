@@ -1,8 +1,5 @@
-# Hi there, my name is Luis Migliore
-
-## I'm a junior FullStack Developer
-
-### I' m experienced in the use of:
+<h1 align="center">Hi there, my name is Luis Migliore</h1>
+<h3 align="center">A passionate junior FullStack Developer from Argentina</h3>
 
 #### Programming languages:
 
