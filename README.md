@@ -35,6 +35,6 @@ Should you be interested in contacting me, feel free to do it. See "Connect with
 
 <p align="left">
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/engineer-luis-migliore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/engineer-luis-migliore" height="30" width="40" /></a>
-  [mail] (migliorenicolas@yahoo.com.ar)
-[Twitter]
+- 📫 migliorenicolas@yahoo.com.ar **migliorenicolas@yahoo.com.ar**
+
 </p>
