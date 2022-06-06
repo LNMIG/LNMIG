@@ -1,5 +1,14 @@
 <h1 align="center">Hi, I am Luis Migliore</h1>
 <h2 align="center">A passionate junior FullStack Developer from Argentina</h2>
+<p align="left" >
+I am a passionate Structural Engineer that decided to make a change in his life and start a new career as a Full Stack Developer on 2022. As a Full Stack Developer I am experienced in the use of JavaScript, Nodejs, React & Redux, PostgreSQL, Express, HTML and CSS. I'm focusing in gathering experience and knowledge in the Back-End development.
+
+As a Structural Engineer I can say I have 20+ years of professional experience in both American and Argentinian AEC industry. Experienced in structural design, and familiar with American codes, such as ASCE7, AISC, ACI, CBC, NDS, ADM, and IBC.
+
+I consider myself a problem solver and client oriented professional.
+
+Should you be interested in contacting me, feel free to do it at anytime.
+</p>
 
 ---
 
