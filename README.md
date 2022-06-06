@@ -7,7 +7,7 @@ As a Structural Engineer I can say I have 20+ years of professional experience i
 
 I consider myself a problem solver and client oriented professional.
 
-Should you be interested in contacting me, feel free to do it at anytime.
+Should you be interested in contacting me, feel free to do it. See "Connect with me" below.
 </p>
 
 ---
