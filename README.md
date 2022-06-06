@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, my name is Luis Migliore</h1>
-<h3 align="center">A passionate junior FullStack Developer from Argentina</h3>
+<h1 align="center">Hi, I am Luis Migliore</h1>
+<h2 align="center">A passionate junior FullStack Developer from Argentina</h2>
 
 ---
 
