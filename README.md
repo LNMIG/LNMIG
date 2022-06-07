@@ -10,9 +10,9 @@ I consider myself a problem solver and client oriented professional.
 Should you be interested in contacting me, feel free to do it. See "Connect with me" below.
 </p>
 
----
 
-#### Experienced in the use of:
+
+### Experienced in the use of:
 
 
 <h3 align="center">Javascript | React | Redux | NodeJS | PostgreSQL | Express | Sequilize | Postman | HTML | CSS</h3>
@@ -39,15 +39,17 @@ Should you be interested in contacting me, feel free to do it. See "Connect with
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
 </p>
 
----
-#### What am I learning now?
+
+### What am I learning now?
 <p align="left">
 I'm learning how to use and take advantage of NEXT.js
 </p>
 
----
-#### Connect with me
+
+### Do you want to connect with me?
 
 <p align="left">
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/engineer-luis-migliore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/engineer-luis-migliore" height="30" width="40" /></a>
 </p>
+
+### See my recent proyects below
