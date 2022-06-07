@@ -40,6 +40,12 @@ Should you be interested in contacting me, feel free to do it. See "Connect with
 </p>
 
 ---
+#### What am I learning now?
+<p align="left">
+I'm learning how to use and take advantage of NEXT.js
+</p>
+
+---
 #### Connect with me
 
 <p align="left">
