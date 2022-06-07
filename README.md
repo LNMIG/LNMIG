@@ -12,7 +12,7 @@ Should you be interested in contacting me, feel free to do it. See "Connect with
 
 
 
-<h2 align="center" color="red">Experienced in the use of:</h2>
+<h2 align="center">Experienced in the use of:</h2>
 
 
 <h3 align="center">Javascript | React | Redux | NodeJS | PostgreSQL | Express | Sequilize | Postman | HTML | CSS</h3>
