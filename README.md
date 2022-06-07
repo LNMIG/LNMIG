@@ -40,16 +40,16 @@ Should you be interested in contacting me, feel free to do it. See "Connect with
 </p>
 
 
-## What am I learning now?
+<h2 align="center">What am I learning now?</h2>
 <p align="left">
 I'm learning how to use and take advantage of NEXT.js
 </p>
 
 
-## Do you want to connect with me?
+<h2 align="center">Do you want to connect with me?</h2>
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/engineer-luis-migliore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/engineer-luis-migliore" height="30" width="40" /></a>
 </p>
 
-## See my recent proyects below
+<h2 align="center">See my recent proyects below</h2>
