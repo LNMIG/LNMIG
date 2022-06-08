@@ -52,4 +52,4 @@ I'm learning how to use and take advantage of NEXT.js
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/engineer-luis-migliore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/engineer-luis-migliore" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">See my recent proyects below</h2>
+<h2 align="center">See my recent projects below</h2>
