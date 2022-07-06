@@ -42,7 +42,7 @@ Should you be interested in contacting me, feel free to do it. See "Connect with
 
 <h2 align="center">What am I learning now?</h2>
 <p align="left">
-I'm learning how to use and take advantage of NEXT.js
+I'm learning how to use and take advantage of MongoDB, Angular and learning the basics of DevOps
 </p>
 
 
